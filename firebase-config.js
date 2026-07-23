@@ -1,5 +1,5 @@
 window.FIREBASE_CONFIG = {
-  apiKey: "AIzaSyBpVdB5dcyJ48GmSfuBoOH01Dq0lkzgo",
+  apiKey: "AIzaSyBpLVdBB5dcyJ48GmSfuBoOHO1Dq0lkzg0",
   authDomain: "molodeh-c523e.firebaseapp.com",
   databaseURL: "https://molodeh-c523e-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "molodeh-c523e",
